@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 2012.03 ~ 2016.02 Kyunghee Univ  
 - 2017.01 ~ 2020.11 GS ITM  
 - 2020.11 ~ ⚡ Daou Technology  
 
