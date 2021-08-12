@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 2012.03 ~ 2016.02 Kyunghee Univ  
 - 2017.01 ~ 2020.11 GS ITM  
-- 2020.11 ~         Daou Technology  
+- 2020.11 ~ ⚡ Daou Technology  
 
 <img src="https://img.shields.io/badge/Java-FF5E00?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-2F9D27?style=flat-square&logo=spring&logoColor=white"/></a>
