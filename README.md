@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-FF5E00?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-2F9D27?style=flat-square&logo=spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JPA-FF5E00?style=flat-square&logo=hibernate&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-BCE55C?style=flat-square&logo=hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-2F9D27?style=flat-square&logo=springBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FF48FF?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-003399?style=flat-square&logo=vue.js&logoColor=white"/></a>
