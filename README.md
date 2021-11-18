@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SpringBoot-2F9D27?style=flat-square&logo=springBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-FF48FF?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-003399?style=flat-square&logo=vue.js&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/-JPA-yellowgreen"/></a>
 💬 contact : seolhanee@gmail.com
